@@ -47,8 +47,8 @@ On Apple Vision Pro, you steer your ship with **pinch-and-drag** gestures and by
 around — the App uses your **head/device position** to aim where you look. The system
 provides this information to the App **only while you are playing**. It is used in the
 moment to control gameplay and is **never** recorded, stored, collected, or transmitted
-to us or anyone else. The App does **not** use hand tracking, and does **not** access the
-device cameras or your surroundings.
+to us or anyone else. The App does **not** collect, store, or transmit any hand, body, or
+other spatial data, and does **not** access the device cameras or your surroundings.
 
 ### Data stored only on your device
 Your settings, high scores, and preferences are saved locally on your device (in the
