@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy — Wormhole or Die
 
-_Last updated: 21 June 2026_
+_Last updated: 25 June 2026_
 
 This Privacy Policy explains what information the **Wormhole or Die** game for iPhone,
 iPad, and Apple Vision Pro ("the App", "we", "us") collects, how it is used, and the
@@ -18,8 +18,9 @@ choices you have. We designed the App to collect as little as possible.
   camera.
 - We do **not** track you across other apps or websites, and we do **not** use the
   advertising identifier (IDFA). The App shows no ads.
-- On **Apple Vision Pro**, hand and head movement are used **on your device** to control
-  the game. This spatial data is never collected, stored, or sent to us.
+- On **Apple Vision Pro**, your look direction (head/device position) and pinch gestures
+  control the game, processed **on your device**. This spatial data is never collected,
+  stored, or sent to us.
 - We do **not** sell your data.
 
 ## Information we collect
@@ -42,13 +43,12 @@ display name and the scores you submit. Apple's handling of your data is governe
 [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 ### Spatial data on Apple Vision Pro (processed on-device only)
-On Apple Vision Pro, the App uses **hand tracking** and **head/device position** so you
-can steer your ship by moving your hand and looking around. With your permission, the
-system provides this information to the App **only while you are playing**. It is used
-in the moment to control gameplay and is **never** recorded, stored, collected, or
-transmitted to us or anyone else. You can decline hand tracking when prompted; the App
-remains playable using pinch-and-drag steering. The App does not access the device
-cameras or your surroundings.
+On Apple Vision Pro, you steer your ship with **pinch-and-drag** gestures and by looking
+around — the App uses your **head/device position** to aim where you look. The system
+provides this information to the App **only while you are playing**. It is used in the
+moment to control gameplay and is **never** recorded, stored, collected, or transmitted
+to us or anyone else. The App does **not** use hand tracking, and does **not** access the
+device cameras or your surroundings.
 
 ### Data stored only on your device
 Your settings, high scores, and preferences are saved locally on your device (in the
